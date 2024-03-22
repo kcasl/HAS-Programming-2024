@@ -1,2 +1,2 @@
-# HAS_Programming
-JAVA Programming class
+# JAVA_Programming
+
